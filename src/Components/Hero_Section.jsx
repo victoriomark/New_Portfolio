@@ -14,7 +14,7 @@ const Hero_  = () =>{
             <button>Download My CV</button>
         </div>
         <picture >
-              <img src="./public/image/profile.png" width={400} alt="profile" />
+              <img src="/image/profile.png" width={400} alt="profile" />
         </picture>
         </section>
         </>
