@@ -4,7 +4,7 @@ const About_ = () => {
       <h1 id="About_h1">About</h1>
       <section className="about">
       <picture id="aboutCover">
-      <img src={'public/image/cover.png'} width={400} alt="cover" />
+      <img src={'/image/cover.png'} width={400} alt="cover" />
         </picture>
         <div className="contentAbout">
           <h5>
