@@ -99,7 +99,7 @@ header h3 span{
   padding: 10px;
   background-color: #213547;
   color: #f9f9f9;
-  height: 60vh;
+  height: 80vh;
   align-items: center;
 
 }
@@ -126,7 +126,7 @@ span{
   border: none;
   outline: none;
 }
-#Hero button:hover{
+#Hero button{
 background-color: #747bff;
 color: #ffffff;
 }
